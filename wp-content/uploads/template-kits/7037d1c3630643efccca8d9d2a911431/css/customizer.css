@@ -1,0 +1,6 @@
+.envato-kit-128-grad-border .elementor-button-wrapper{
+	display: inline-block;
+  background: linear-gradient(to left, #e11da3, #3b68ff);
+	border-radius: 50px;
+  padding: 2px;
+}
